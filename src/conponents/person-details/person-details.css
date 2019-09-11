@@ -1,0 +1,21 @@
+.person-details{
+    display: flex;
+    padding: 1rem;
+    border: 1px solid #444;
+    background-color: #303030;
+    /*align-items: center;*/
+}
+.person-details .person-img{
+    width: 150px;
+    height: 200px;
+    border-radius: 10px;
+    margin-right: 1rem;
+}
+.person-btn{
+    background-color: red;
+    border: none;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+    margin-top: .3rem;
+}
